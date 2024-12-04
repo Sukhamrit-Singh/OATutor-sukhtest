@@ -29,7 +29,7 @@ const consumerKeySecretMap = {
   key: "secret",
 };
 
-const oatsHost = "https://cahlr.github.io/OATutor/#";
+const oatsHost = "https://sukhamrit-singh.github.io/OATutor-sukhtest/#/";
 const stagingHost = "https://cahlr.github.io/OATutor-Staging/#";
 const unlinkedPage = "assignment-not-linked";
 const alreadyLinkedPage = "assignment-already-linked";
@@ -396,7 +396,7 @@ app.post(
         <table class="tb">
             <thead><tr>
                 <th>Problem ID</th>
-                <th>Step ID</th>
+                <th>Step ID 2</th>
                 <th>Action Type</th>
                 <th>Student Answer</th>
                 <th>Time Taken (s)</th>
