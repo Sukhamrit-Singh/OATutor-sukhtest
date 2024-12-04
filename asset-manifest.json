@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-sukhtest/static/css/main.6be12b4d.css",
-    "main.js": "/OATutor-sukhtest/static/js/main.c5aa97cd.js",
+    "main.js": "/OATutor-sukhtest/static/js/main.0183d5e2.js",
     "static/media/Symbola.svg": "/OATutor-sukhtest/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-sukhtest/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-sukhtest/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-sukhtest/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-sukhtest/index.html",
     "main.6be12b4d.css.map": "/OATutor-sukhtest/static/css/main.6be12b4d.css.map",
-    "main.c5aa97cd.js.map": "/OATutor-sukhtest/static/js/main.c5aa97cd.js.map"
+    "main.0183d5e2.js.map": "/OATutor-sukhtest/static/js/main.0183d5e2.js.map"
   },
   "entrypoints": [
     "static/css/main.6be12b4d.css",
-    "static/js/main.c5aa97cd.js"
+    "static/js/main.0183d5e2.js"
   ]
 }
